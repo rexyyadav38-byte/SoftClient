@@ -1,0 +1,7 @@
+{
+  "name": "Softly Client - Minecraft Java Edition Launcher for Android",
+  "description": "A modern, high-performance Minecraft Java Edition launcher for Android inspired by Feather and Lunar Client, featuring genuine Mojang version manifests, Pojav-compatible touch controls editor, mod manager, JVM & RAM optimizer, and a live 3D voxel game engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
